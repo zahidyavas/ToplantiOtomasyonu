@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToplantiOtomasyonu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6db7f337196a273cd8749cfbc0bac0722966bcf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e427f250a6ed4608980a9b19bdf79bbbc76bbef5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToplantiOtomasyonu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToplantiOtomasyonu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
