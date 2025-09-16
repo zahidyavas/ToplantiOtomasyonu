@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using ToplantiOtomasyonu.Models;
 
 namespace ToplantiOtomasyonu.Controllers
 {
@@ -6,7 +7,19 @@ namespace ToplantiOtomasyonu.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            int saat = DateTime.Now.Hour;
+            ViewBag.Selamlama =  saat < 12 ? "Günaydın" : saat < 18 ? "İyi Günler" : "İyi Akşamlar";
+            ViewBag.KullaniciAdi = "Zahid";
+
+            var MeetingInfo = new MeetingInfo()
+            {
+                Id = 1,
+                Location = "Bursa - Merinos Atatürk Kongre Kültür Merkezi",
+                Date = new DateTime(2026, 06, 29, 19, 0, 0),
+                NumberOfPeople = 250
+            };
+
+            return View(MeetingInfo);
         }
     }
 }
