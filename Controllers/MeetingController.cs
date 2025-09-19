@@ -20,7 +20,7 @@ namespace ToplantiOtomasyonu.Controllers
         [HttpGet]
         public IActionResult List()
         {
-            return View();
+            return View(UserData.Users);
         }
     }
 }

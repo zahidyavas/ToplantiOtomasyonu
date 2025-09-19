@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B8261E82-FD00-4514-B883-A9260633D2DB}|ToplantiOtomasyonu.csproj|c:\\users\\zahid\\desktop\\toplantiotomasyonu\\views\\meeting\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8261E82-FD00-4514-B883-A9260633D2DB}|ToplantiOtomasyonu.csproj|solutionrelative:views\\meeting\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B8261E82-FD00-4514-B883-A9260633D2DB}|ToplantiOtomasyonu.csproj|c:\\users\\zahid\\desktop\\toplantiotomasyonu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B8261E82-FD00-4514-B883-A9260633D2DB}|ToplantiOtomasyonu.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,8 +15,20 @@
       "RelativeMoniker": "D:0:0:{B8261E82-FD00-4514-B883-A9260633D2DB}|ToplantiOtomasyonu.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8261E82-FD00-4514-B883-A9260633D2DB}|ToplantiOtomasyonu.csproj|c:\\users\\zahid\\desktop\\toplantiotomasyonu\\models\\meetinginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8261E82-FD00-4514-B883-A9260633D2DB}|ToplantiOtomasyonu.csproj|solutionrelative:models\\meetinginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8261E82-FD00-4514-B883-A9260633D2DB}|ToplantiOtomasyonu.csproj|c:\\users\\zahid\\desktop\\toplantiotomasyonu\\views\\meeting\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8261E82-FD00-4514-B883-A9260633D2DB}|ToplantiOtomasyonu.csproj|solutionrelative:views\\meeting\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8261E82-FD00-4514-B883-A9260633D2DB}|ToplantiOtomasyonu.csproj|c:\\users\\zahid\\desktop\\toplantiotomasyonu\\controllers\\meetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8261E82-FD00-4514-B883-A9260633D2DB}|ToplantiOtomasyonu.csproj|solutionrelative:controllers\\meetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8261E82-FD00-4514-B883-A9260633D2DB}|ToplantiOtomasyonu.csproj|c:\\users\\zahid\\desktop\\toplantiotomasyonu\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8261E82-FD00-4514-B883-A9260633D2DB}|ToplantiOtomasyonu.csproj|solutionrelative:models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8261E82-FD00-4514-B883-A9260633D2DB}|ToplantiOtomasyonu.csproj|c:\\users\\zahid\\desktop\\toplantiotomasyonu\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8261E82-FD00-4514-B883-A9260633D2DB}|ToplantiOtomasyonu.csproj|solutionrelative:models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +38,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T20:04:18.055Z",
+              "WhenOpened": "2025-09-19T18:02:10.909Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T20:00:17.853Z"
+              "WhenOpened": "2025-09-19T18:01:54.541Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MeetingInfo.cs",
-              "DocumentMoniker": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\Models\\MeetingInfo.cs",
-              "RelativeDocumentMoniker": "Models\\MeetingInfo.cs",
-              "ToolTip": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\Models\\MeetingInfo.cs",
-              "RelativeToolTip": "Models\\MeetingInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Thanks.cshtml",
+              "DocumentMoniker": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\Views\\Meeting\\Thanks.cshtml",
+              "RelativeDocumentMoniker": "Views\\Meeting\\Thanks.cshtml",
+              "ToolTip": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\Views\\Meeting\\Thanks.cshtml",
+              "RelativeToolTip": "Views\\Meeting\\Thanks.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T17:43:03.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\Models\\UserData.cs",
+              "RelativeDocumentMoniker": "Models\\UserData.cs",
+              "ToolTip": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\Models\\UserData.cs",
+              "RelativeToolTip": "Models\\UserData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAByAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T19:57:46.554Z"
+              "WhenOpened": "2025-09-19T17:34:49.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\Models\\UserInfo.cs",
+              "RelativeDocumentMoniker": "Models\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\Models\\UserInfo.cs",
+              "RelativeToolTip": "Models\\UserInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T17:23:53.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MeetingController.cs",
+              "DocumentMoniker": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\Controllers\\MeetingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MeetingController.cs",
+              "ToolTip": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\Controllers\\MeetingController.cs",
+              "RelativeToolTip": "Controllers\\MeetingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T17:11:16.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Apply.cshtml",
+              "DocumentMoniker": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\Views\\Meeting\\Apply.cshtml",
+              "RelativeDocumentMoniker": "Views\\Meeting\\Apply.cshtml",
+              "ToolTip": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\Views\\Meeting\\Apply.cshtml",
+              "RelativeToolTip": "Views\\Meeting\\Apply.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T17:11:54.984Z",
+              "EditorCaption": ""
             }
           ]
         }
