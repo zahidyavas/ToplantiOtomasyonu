@@ -9,7 +9,6 @@ namespace ToplantiOtomasyonu.Controllers
         {
             int saat = DateTime.Now.Hour;
             ViewBag.Selamlama =  saat < 12 ? "Günaydın" : saat < 18 ? "İyi Günler" : "İyi Akşamlar";
-            ViewBag.KullaniciAdi = "Zahid";
 
             var MeetingInfo = new MeetingInfo()
             {
