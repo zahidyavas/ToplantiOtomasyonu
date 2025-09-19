@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8261E82-FD00-4514-B883-A9260633D2DB}|ToplantiOtomasyonu.csproj|c:\\users\\zahid\\desktop\\toplantiotomasyonu\\views\\meeting\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8261E82-FD00-4514-B883-A9260633D2DB}|ToplantiOtomasyonu.csproj|solutionrelative:views\\meeting\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B8261E82-FD00-4514-B883-A9260633D2DB}|ToplantiOtomasyonu.csproj|c:\\users\\zahid\\desktop\\toplantiotomasyonu\\views\\meeting\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8261E82-FD00-4514-B883-A9260633D2DB}|ToplantiOtomasyonu.csproj|solutionrelative:views\\meeting\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8261E82-FD00-4514-B883-A9260633D2DB}|ToplantiOtomasyonu.csproj|c:\\users\\zahid\\desktop\\toplantiotomasyonu\\controllers\\meetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8261E82-FD00-4514-B883-A9260633D2DB}|ToplantiOtomasyonu.csproj|solutionrelative:controllers\\meetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8261E82-FD00-4514-B883-A9260633D2DB}|ToplantiOtomasyonu.csproj|c:\\users\\zahid\\desktop\\toplantiotomasyonu\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,27 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\Views\\Meeting\\List.cshtml",
-              "RelativeDocumentMoniker": "Views\\Meeting\\List.cshtml",
-              "ToolTip": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\Views\\Meeting\\List.cshtml",
-              "RelativeToolTip": "Views\\Meeting\\List.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAKAAAAAAAAAA==",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\Views\\Meeting\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Meeting\\Details.cshtml",
+              "ToolTip": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\Views\\Meeting\\Details.cshtml",
+              "RelativeToolTip": "Views\\Meeting\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-19T18:51:45.693Z",
+              "WhenOpened": "2025-09-19T19:25:30.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MeetingController.cs",
+              "DocumentMoniker": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\Controllers\\MeetingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MeetingController.cs",
+              "ToolTip": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\Controllers\\MeetingController.cs",
+              "RelativeToolTip": "Controllers\\MeetingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:23:24.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UserData.cs",
               "DocumentMoniker": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\Models\\UserData.cs",
               "RelativeDocumentMoniker": "Models\\UserData.cs",
               "ToolTip": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\Models\\UserData.cs",
               "RelativeToolTip": "Models\\UserData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T17:34:49.252Z",
+              "WhenOpened": "2025-09-19T19:13:18.408Z",
               "EditorCaption": ""
             }
           ]

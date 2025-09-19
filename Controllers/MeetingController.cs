@@ -22,5 +22,9 @@ namespace ToplantiOtomasyonu.Controllers
         {
             return View(UserData.Users);
         }
+        public IActionResult Details(int id)
+        {
+            return View(UserData.GetById(id));
+        }
     }
 }
