@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8261E82-FD00-4514-B883-A9260633D2DB}|ToplantiOtomasyonu.csproj|c:\\users\\zahid\\desktop\\toplantiotomasyonu\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B8261E82-FD00-4514-B883-A9260633D2DB}|ToplantiOtomasyonu.csproj|solutionrelative:libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B8261E82-FD00-4514-B883-A9260633D2DB}|ToplantiOtomasyonu.csproj|c:\\users\\zahid\\desktop\\toplantiotomasyonu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8261E82-FD00-4514-B883-A9260633D2DB}|ToplantiOtomasyonu.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8261E82-FD00-4514-B883-A9260633D2DB}|ToplantiOtomasyonu.csproj|c:\\users\\zahid\\desktop\\toplantiotomasyonu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8261E82-FD00-4514-B883-A9260633D2DB}|ToplantiOtomasyonu.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8261E82-FD00-4514-B883-A9260633D2DB}|ToplantiOtomasyonu.csproj|c:\\users\\zahid\\desktop\\toplantiotomasyonu\\models\\meetinginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8261E82-FD00-4514-B883-A9260633D2DB}|ToplantiOtomasyonu.csproj|solutionrelative:models\\meetinginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "libman.json",
-              "DocumentMoniker": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\libman.json",
-              "RelativeDocumentMoniker": "libman.json",
-              "ToolTip": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\libman.json",
-              "RelativeToolTip": "libman.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-16T19:16:10.454Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T20:04:18.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T20:00:17.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MeetingInfo.cs",
+              "DocumentMoniker": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\Models\\MeetingInfo.cs",
+              "RelativeDocumentMoniker": "Models\\MeetingInfo.cs",
+              "ToolTip": "C:\\Users\\zahid\\Desktop\\ToplantiOtomasyonu\\Models\\MeetingInfo.cs",
+              "RelativeToolTip": "Models\\MeetingInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:57:46.554Z",
               "EditorCaption": ""
             }
           ]
